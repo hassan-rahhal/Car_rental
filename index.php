@@ -104,14 +104,10 @@ $conn = Connect();
                     <li>
                         <a href="customerlogin.php">Customer</a>
                     </li>
-                    <li>
-                        <a href="faq/index.php"> FAQ </a>
-                    </li>
                 </ul>
             </div>
                 <?php   }
                 ?>
-            <!-- /.navbar-collapse -->
         </div>
         <!-- /.container -->
     </nav>
@@ -183,9 +179,6 @@ $conn = Connect();
         </div>
     </div>
 
-    
-    <!-- Container (Contact Section) -->
-    <!-- -->
     <footer class="site-footer">
         <div class="container">
             <hr>

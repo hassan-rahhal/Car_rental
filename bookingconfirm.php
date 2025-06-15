@@ -181,9 +181,6 @@ if(!isset($_SESSION['login_customer'])){
                     <li>
                         <a href="customerlogin.php">Customer</a>
                     </li>
-                    <li>
-                        <a href="#"> FAQ </a>
-                    </li>
                 </ul>
             </div>
                 <?php   }
@@ -342,9 +339,6 @@ if(!isset($_SESSION['login_customer'])){
                     </li>
                     <li>
                         <a href="customerlogin.php">Customer</a>
-                    </li>
-                    <li>
-                        <a href="#"> FAQ </a>
                     </li>
                 </ul>
             </div>

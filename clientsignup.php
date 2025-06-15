@@ -87,9 +87,6 @@
                                 <li>
                                     <a href="customerlogin.php">Customer</a>
                                 </li>
-                                <li>
-                                    <a href="#"> FAQ </a>
-                                </li>
                             </ul>
                         </div>
                         <?php   }
