@@ -73,8 +73,8 @@ $conn = Connect();
                     <ul class="nav navbar-nav">
             <li><a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Garagge <span class="caret"></span> </a>
                 <ul class="dropdown-menu">
-              <li> <a href="returncar.php">Return Now</a></li>
-              <li> <a href="mybookings.php"> My Bookings</a></li>
+              <li> <a href="prereturncar.php">End Rent</a></li>
+              <li> <a href="mybookings.php"> Bookings History</a></li>
             </ul>
             </li>
           </ul>
