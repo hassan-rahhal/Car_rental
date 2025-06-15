@@ -109,7 +109,7 @@ if(isset($_SESSION['login_client'])){
     </nav>
         <div class="container">
             <div class="jumbotron">
-                <h1 class="text-center">Car Rentals - Employee Panel </span>
+                <h1 class="text-center">Car Rental - Admin Panel </span>
                 </h1>
                 <br>
                 <p class="text-center">Please LOGIN to continue.</p>
@@ -171,7 +171,7 @@ if(isset($_SESSION['login_client'])){
             <hr>
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>© <?php echo date("Y"); ?> Car Rentals</h5>
+                    <h5>© <?php echo date("Y"); ?> Car Rental</h5>
                 </div>
             </div>
         </div>

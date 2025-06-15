@@ -31,7 +31,7 @@ if(!isset($_SESSION['login_customer'])){
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   Car Rentals </a>
+                   Car Rental </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -253,7 +253,7 @@ if(!isset($_SESSION['login_customer'])){
             <hr>
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>© <?php echo date("Y"); ?> Car Rentals</h5>
+                    <h5>© <?php echo date("Y"); ?> Car Rental</h5>
                 </div>
             </div>
         </div>

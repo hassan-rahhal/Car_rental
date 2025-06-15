@@ -8,7 +8,7 @@ $conn = Connect();
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Car Rentals</title>
+    <title>Car Rental</title>
     <link rel="shortcut icon" type="image/png" href="assets/img/P.png">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
@@ -29,7 +29,7 @@ $conn = Connect();
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   Car Rentals </a>
+                   Car Rental </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 
@@ -116,7 +116,7 @@ $conn = Connect();
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
-                            <h1 class="brand-heading" style="color: black">Car Rentals</h1>
+                            <h1 class="brand-heading" style="color: black">Car Rental</h1>
                             <p class="intro-text">
                                 Online Car Rental Service
                             </p>
@@ -178,7 +178,7 @@ $conn = Connect();
             <hr>
             <div class="row">
                 <div class="col-sm-6">
-                    <h5>© <?php echo date("Y"); ?> Car Rentals</h5>
+                    <h5>© <?php echo date("Y"); ?> Car Rental</h5>
                 </div>
                 
             </div>

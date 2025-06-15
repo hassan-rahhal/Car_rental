@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title> Employee Signup | Car Rentals  </title>
+    <title> Admin Signup | Car Rentals </title>
 </head>
 <link rel="shortcut icon" type="image/png" href="assets/img/P.png.png">
  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
@@ -20,7 +20,7 @@
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   Car Rentals </a>
+                   Car Rental </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <?php
@@ -97,7 +97,7 @@
     </nav>
     <div class="container">
         <div class="jumbotron">
-            <h1 class="text-center">Car Rentals - Registration</h1>
+            <h1 class="text-center">Car Rental - Registration</h1>
             <br>
             <p class="text-center">Get started by creating an employee account</p>
         </div>
@@ -214,7 +214,7 @@
         <hr>
         <div class="row">
             <div class="col-sm-6">
-                <h5>© <?php echo date("Y"); ?> Car Rentals</h5>
+                <h5>© <?php echo date("Y"); ?> Car Rental</h5>
             </div>
         </div>
     </div>
