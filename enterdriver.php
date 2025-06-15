@@ -44,7 +44,7 @@ include('session_client.php'); ?>
                 <ul class="dropdown-menu">
               <li> <a href="entercar.php">Add Car</a></li>
               <li> <a href="enterdriver.php"> Add Driver</a></li>
-              <li> <a href="clientview.php">View</a></li>
+              <li> <a href="clientview.php">View Reports</a></li>
 
             </ul>
             </li>

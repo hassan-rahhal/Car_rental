@@ -50,7 +50,7 @@ $conn = Connect();
                 <ul class="dropdown-menu">
               <li> <a href="entercar.php">Add Car</a></li>
               <li> <a href="enterdriver.php"> Add Driver</a></li>
-              <li> <a href="clientview.php">View</a></li>
+              <li> <a href="clientview.php">View Reports</a></li>
 
             </ul>
             </li>
@@ -120,9 +120,7 @@ $conn = Connect();
                             <p class="intro-text">
                                 Online Car Rental Service
                             </p>
-                            <a href="#sec2" class="btn btn-circle page-scroll blink">
-                                <i class="fa fa-angle-double-down animated"></i>
-                            </a>
+
                         </div>
                     </div>
                 </div>
