@@ -80,12 +80,6 @@ a:hover {
   outline: 0;
 }
 
-.navbar-custom .nav li a {
-  -webkit-transition: background 0.3s ease-in-out;
-  -moz-transition: background 0.3s ease-in-out;
-  transition: background 0.3s ease-in-out;
-}
-
 .navbar-custom .nav li a:hover {
   outline: 0;
   color: #1ba39c;
@@ -116,9 +110,6 @@ a:hover {
     border-bottom: 0;
     font-size: 13px;
     background: 0 0;
-    -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
-    -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
-    transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
   }
   .navbar-custom.top-nav-collapse {
     padding: 0;
@@ -190,9 +181,6 @@ a:hover {
   font-size: 20px;
   color: rgb(19, 19, 19);
   background: 0 0;
-  -webkit-transition: background 0.3s ease-in-out;
-  -moz-transition: background 0.3s ease-in-out;
-  transition: background 0.3s ease-in-out;
 }
 
 .btn-circle:hover,
@@ -212,13 +200,6 @@ a:hover {
   background-size: cover;
 }
 
-.bgimg-1 {
-  min-height: 100%;
-}
-
-.bgimg-2 {
-  min-height: 400px;
-}
 
 .caption {
   position: absolute;

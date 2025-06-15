@@ -111,7 +111,6 @@ $conn = Connect();
         </div>
         <!-- /.container -->
     </nav>
-    <div class="bgimg-1">
         <header class="intro">
             <div class="intro-body">
                 <div class="container">
@@ -129,7 +128,6 @@ $conn = Connect();
                 </div>
             </div>
         </header>
-    </div>
 
     <div id="sec2" style="color: #777;background-color:white;text-align:center;padding:50px 80px;text-align: justify;">
         <h3 style="text-align:center;">Available Cars</h3>
@@ -173,11 +171,9 @@ $conn = Connect();
                     
     </div>
 
-    <div class="bgimg-2">
         <div class="caption">
             <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;"></span>
         </div>
-    </div>
 
     <footer class="site-footer">
         <div class="container">
