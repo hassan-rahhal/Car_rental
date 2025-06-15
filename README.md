@@ -1,23 +1,53 @@
-# Patna-Car-Rental
-Online Car Rental Management System 
+# 🚗 PHP Car Rental Web Application
 
-This is a Web based Application developed using PHP as a Host Language. Database for the Application is in "Database" folder. It can be imported to your localhost(phpMyAdmin) or any other servers. Also configure the "connection.php" to set up the necessary connections with the database.
+A complete **Car Rental Management System** built with **PHP & MySQL**. This web application provides role-based access for **Admins** and **Customers**, complete authentication, car rental booking, detailed invoices, and advanced tracking features.
 
-### Screenshots:
-> - Landing Page
-<img src="/Screenshots/index.jpg" width="800" height="450" alt="landing_page"/>
+## 🔐 Features
 
-> - Available Cars
-<img src="/Screenshots/available_cars.png" width="800" height="450" alt="available_cars"/>
+### 🔸 Authentication & User Roles
+- Secure login/signup system
+- Role-based access for:
+    - Admins: Manage and monitor system operations
+    - Customers: Browse, book, and manage car rentals
 
-> - Add Cars
-<img src="/Screenshots/add_car.png" width="800" height="700" alt="add_car"/>
+### 👨‍💼 Admin Panel
+- Add, edit, and delete cars with:
+  - Hourly & daily rental rates
+  - Features like AC availability and driver options
+  - Car plate number and car information
+- Add, edit, and delete drivers:
+  - Name, contact, driver ID, and availability
+- View and manage:
+  - Current rentals
+  - Booking history
+  - Reports on system activity and rentals
+- Track rented cars and the customers associated with them
 
-> - Booking Confirmation
-<img src="/Screenshots/booking_confirmation.png" width="800" height="800" alt="booking_confirm"/>
+### 🧑‍💼 Customer Panel
+- Sign up and log in securely
+- Browse available cars and filter by features
+- Book cars by:
+  - Hour or day
+  - With or without a driver
+  - With or without an AC
+- View personal booking history
+- Track currently rented car
+- End rental and receive:
+  - A **detailed invoice** showing breakdown of charges
+  - A history of all past bookings
 
-> - Return Car
-<img src="/Screenshots/return_car.png" width="800" height="450" alt="return_car"/>
+## 📦 Technologies Used
+- **PHP** (Backend)
+- **MySQL** (Database)
+- **HTML/CSS/JavaScript** (Frontend)
+- **Bootstrap** (Responsive UI)
 
-> - Booking Summary
-<img src="/Screenshots/bookings.png" width="800" height="450" alt="booking_summary"/>
+## 📊 Database Features
+- Relational structure with foreign keys for:
+  - Cars
+  - Drivers
+  - Customers
+  - Rentals & Transactions
+- Booking history logs
+- Real-time rental tracking
+- Rental reports for admin insights
